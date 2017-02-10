@@ -1,2 +1,7 @@
 # hello-world
-My first repository
+
+Hello!
+
+The journey matters, not the destination
+
+Bye bye!!
